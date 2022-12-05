@@ -3,9 +3,9 @@
 <br/>
 <br/>
 
-- 💻 I’m currently working on **my portfolio, a web-agency, a wordpress shop and a banking app calles Maze-bank.**
+- 💻 I’m currently working on **my portfolio, a web-agency, a wordpress shop and a banking app called Maze-bank.**
 
-- 🌱 I just started learning **Javascript and on my way to the Back-end with PHP 🐘**
+- 🌱 Still learning **Javascript and some Back-end with PHP 🐘**
 
 - 💬 Don't ask me about anything for now **It's still a struggle to be comfortable with JS, but I will eventually become better in around 25 years (always stay positive 😊).**
 
