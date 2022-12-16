@@ -3,15 +3,17 @@
 <br/>
 <br/>
 
-- 💻 I’m currently working on **my portfolio, a web-agency, a wordpress shop and a banking app called Maze-bank.**
+- 💻 I’m currently working on **my portfolio with Next.js, a web-agency, a wordpress shop and a fake banking app called Maze-bank.**
 
-- 🌱 Still learning **Javascript and some Back-end with PHP 🐘**
+- 🌱 Still learning **Javascript and Back-end with PHP with its framework Symfony 🐘**
 
-- 💬 Don't ask me about anything for now **It's still a struggle to be comfortable with JS, but I will eventually become better in around 25 years (always stay positive 😊).**
+- 💬 Don't ask me about anything for now **It's still a struggle to be comfortable with JS, but I will eventually become better in around 25 years (always stay positive... and I'm joking obviously hope it will take 10 years 😊).**
 
 - 📫 How to reach me **dervilleprisca@gmail.com**
 
 - 📄 Know about my experiences [https://cv-priscaderville.netlify.app](https://cv-priscaderville.netlify.app)
+
+- 🔗 My portfolio : [https://derville-portfolio.fr/](https://derville-portfolio.fr/)
 
 - ⚡ Fun fact (or not so fun...) **I'm not funny, but people find me funny when I try not to be 🤦🏾‍♀️ (sarcasm and dark humour are my daily stuffs).**
 <br/>
